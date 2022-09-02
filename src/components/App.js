@@ -1,5 +1,5 @@
 import React, { Component, useState } from "react";
-import MainForm from "./MainForm/";
+import MainForm from "./MainForm.js";
 //import "./styles/App.css";
 
 const App = () => {
